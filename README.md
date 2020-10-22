@@ -1,20 +1,20 @@
-## picoCTF solution in PHP
+# PicoCTF solution in PHP
 
-#### Description
+### Description
 
 this repository contains the solution for picoCTF challenges. if any challenge requires coding, then the solution is written in PHP.
 
 **the repository is updated constantly**
 
-#### usage
+### usage
 
 clone, fork or download directly. use it the way you like.
 
 
-#### issues
+### issues
 
 issues are welcome. see `/issues`
 
-#### Credit:
+### Credit:
 
 @celyes
