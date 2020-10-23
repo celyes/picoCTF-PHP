@@ -14,7 +14,7 @@ foreach($flag_prefix as $l){
 	$flag .= $alpha[$l-1];
 }
 
-//flag body
+// flag body
 $flag .= '{';
 
 foreach($flag_body as $l){
